@@ -1,17 +1,112 @@
-# 💫 About Me:
-🎓 BE graduate in Electronics and Communication Engineering<br>💻 Proficient in C, Linux, GVim, and TCL scripting<br>🛠️ Currently undergoing Physical Design training in VLSI (RTL-to-GDSII flow)<br>🔍 Strong interest in semiconductor backend design and EDA tools<br>🚀 Focused on building skills in timing, floorplanning, clock tree synthesis, and power analysis<br>🤝 Open to collaboration, learning, and contributing to VLSI-related projects
+# 👨‍💻 Abhishek S Madalli  
+**Physical Design Engineer | VLSI Backend | RTL-to-GDSII**
 
+📍 Bangalore, India  
+📧 abhishek.madalli22@gmail.com  
+📞 +91 8217584969  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek_madalli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Abhishek S Madalli)](https://www.linkedin.com/in/abhishek-s-madalli-5234582b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.madalli22@gmail.com) 
+🌐 **Portfolio:**  
+👉 https://abhisheksmadalli-protfolio.lovable.app  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-madalli&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-madalli&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-madalli&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔗 **LinkedIn:**  
+👉 https://linkedin.com/in/abhishek-s-madalli-5234582b8  
+
+💻 **GitHub:**  
+👉 https://github.com/Abhishek-madalli  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek-madalli&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+Motivated Physical Design Engineer with hands-on experience in **28nm technology nodes** and strong exposure to the **complete RTL-to-GDSII flow**.  
+Trained on industry-standard **Synopsys EDA tools** with expertise in:
+
+- Floorplanning  
+- Placement & Routing  
+- Clock Tree Synthesis (CTS)  
+- Static Timing Analysis (STA)  
+- Power Optimization  
+
+Passionate about backend VLSI design and automation using **TCL scripting**.
+
+---
+
+## 🎯 Career Experience
+
+### Physical Design Engineer Trainee  
+**VLSI Guru – Bangalore** *(Apr 2025 – Dec 2025)*
+
+- Trained on Fusion Compiler, ICC2, PrimeTime, Design Compiler, StarRC  
+- Developed TCL automation scripts for PD flow  
+- Worked on IR drop, antenna fixes & low-power techniques  
+- Reduced timing violations by **15%**
+
+---
+
+## 🛠 Technical Skills
+
+**EDA Tools**  
+- Synopsys: Fusion Compiler, ICC2, PrimeTime, StarRC, Design Compiler  
+
+**Physical Design**  
+- Floorplanning  
+- Power Planning  
+- Placement & Routing  
+- CTS  
+- STA  
+
+**Scripting & OS**  
+- TCL  
+- Linux  
+
+**Verification**  
+- DRC, LVS, RC Extraction  
+
+---
+
+## 🔥 Real-Time Project
+
+### ORCA_TOP – Multi Voltage Block
+- Technology: 28nm  
+- Frequency: 435 MHz  
+- Std Cells: ~60K  
+- Macros: 40  
+- Tools: ICC2, DC, PrimeTime, StarRC  
+
+**Key Work**
+- Iterative floorplanning  
+- Timing-aware placement  
+- CTS with low skew  
+- Manual DRC fixes  
+- Automated pin & voltage area creation  
+
+---
+
+## 📚 Academic Projects
+
+- RTL-to-GDSII 4-bit Adder Subtractor (OpenLane)  
+- IoT Weather Station (ESP8266 + ThingSpeak)  
+
+---
+
+## 🎓 Education
+
+- B.E ECE – VTU (2025) | CGPA: 7.8  
+- PUC – 91.33%  
+- SSLC – 89.56%  
+
+---
+
+## 🏅 Certifications
+
+- Physical Design – VLSI Guru  
+- VLSI Engineer Training – Rooman Technologies  
+
+---
+
+## 🤝 Connect With Me
+
+📩 Email: abhishek.madalli22@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/abhishek-s-madalli-5234582b8  
+🌐 Portfolio: https://abhisheksmadalli-protfolio.lovable.app
 
